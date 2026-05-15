@@ -1,17 +1,4 @@
-<<<<<<< HEAD
-Photo Geo Inference Non-Commercial License (PGI-NC)
 
-Copyright (c) 2026 Benedict Carter
-Contributors: Perplexity, and Claude 4.6.
-All rights reserved.
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use, copy, modify, and distribute the Software, subject to the following conditions:
-
-1. Non-commercial use only. The Software and any derivative works may not be used for commercial purposes.
-2. Attribution. Copies or substantial portions of the Software must retain this notice.
-3. Derivatives. Derivative works are permitted, but must also be licensed under these same terms.
-4. No warranty. The Software is provided "AS IS", without warranty of any kind.
-=======
                                  Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
@@ -200,7 +187,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright [yyyy] [name of copyright owner]
+   Copyright 2026 Benedict Carter
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
@@ -213,4 +200,3 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
->>>>>>> 1367925c015195ad3178da35760cbcf01eac5114
