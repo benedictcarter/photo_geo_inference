@@ -1,0 +1,22 @@
+# Ignore zip archives and other big artifacts
+*.zip
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual envs
+.venv/
+env/
+venv/
+
+# PyInstaller
+build/
+dist/
+*.spec
+*.exe
+
+# IDE
+.vs/
+.vscode/
+.idea/
